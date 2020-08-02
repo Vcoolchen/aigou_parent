@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "ribbon.eureka.enable",
+      "type": "java.lang.String",
+      "description": "Description for ribbon.eureka.enable."
+  }
+] }
