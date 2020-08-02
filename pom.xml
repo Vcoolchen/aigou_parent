@@ -13,6 +13,7 @@
         <module>zuul_gateway</module>
         <module>basic_parent</module>
         <module>plat_parent</module>
+        <module>config_server</module>
     </modules>
     <!--约束springboot和springcloud的版本-->
     <properties>

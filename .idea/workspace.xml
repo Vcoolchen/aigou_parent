@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2bc8923-ce98-41a5-804c-c4c48f82bcd5" name="Default Changelist" comment="" />
+    <list default="true" id="d2bc8923-ce98-41a5-804c-c4c48f82bcd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config_server_8848/config_server_8848.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config_server_8848/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config_server_8848/src/main/java/com/ckx/aigo/ConfigApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config_server_8848/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka_server_7001/eureka_server_7001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plat_parent_8001/plat_interface/plat_interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/plat_service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/com/ckx/aigo/config/DocumentationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/com/ckx/aigo/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul_gateway_9527/zuul_gateway_9527.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server_7001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_server/src/main/java/com/ckx/aigo/EurekaServer_7001.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server_7001/src/main/java/com/ckx/aigo/EurekaServer_7001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server_7001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server_7001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_server/target/classes/com/ckx/aigo/EurekaServer_7001.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server_7001/target/classes/com/ckx/aigo/EurekaServer_7001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_interface/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_interface/src/main/java/com/ckx/aigo/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_interface/src/main/java/com/ckx/aigo/domain/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_interface/target/classes/com/ckx/aigo/domain/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_interface/target/classes/com/ckx/aigo/domain/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/src/main/java/com/ckx/aigo/PlatApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/src/main/java/com/ckx/aigo/PlatApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/src/main/java/com/ckx/aigo/config/Swagger2.java" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/src/main/java/com/ckx/aigo/config/Swagger2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/src/main/java/com/ckx/aigo/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/src/main/java/com/ckx/aigo/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/src/main/java/com/ckx/aigo/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/src/main/java/com/ckx/aigo/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/src/main/resources/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/target/classes/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/target/classes/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/target/classes/com/ckx/aigo/PlatApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/target/classes/com/ckx/aigo/PlatApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/target/classes/com/ckx/aigo/config/Swagger2.class" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/target/classes/com/ckx/aigo/config/Swagger2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/target/classes/com/ckx/aigo/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/target/classes/com/ckx/aigo/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service/target/classes/com/ckx/aigo/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/plat_service/target/classes/com/ckx/aigo/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent_8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway/src/main/java/com/ckx/aigo/ZuulGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/com/ckx/aigo/ZuulGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway/src/main/java/com/ckx/aigo/config/DocumentationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/com/ckx/aigo/config/DocumentationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway/src/main/java/com/ckx/aigo/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/com/ckx/aigo/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway/target/classes/com/ckx/aigo/ZuulGatewayApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/com/ckx/aigo/ZuulGatewayApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway/target/classes/com/ckx/aigo/config/DocumentationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway/target/classes/com/ckx/aigo/config/SwaggerConfig.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +62,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -29,20 +80,25 @@
     </option>
   </component>
   <component name="ProjectId" id="1c80XwxVtTJ2bNm1t7xidXmOJlF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zuul_gateway_9527" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,15 +108,16 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\idea\IdeaProjects\aogomall\basic_parent" />
-      <recent name="D:\idea\IdeaProjects\aogomall" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\idea\IdeaProjects\aogomall\basic_parent\basic_utils\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\IdeaProjects\aigou_parent\plat_parent\plat_service\src\main\resources" />
+      <recent name="D:\idea\IdeaProjects\aogomall\basic_parent" />
+      <recent name="D:\idea\IdeaProjects\aogomall" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -70,20 +127,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ZuulGatewayApplication">
-    <configuration name="BaseQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ckx.aigo.query.BaseQuery" />
-      <module name="basic_parent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ckx.aigo.query.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.ConfigApplication">
     <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ckx.aigo.test1" />
       <module name="plat_service" />
@@ -97,8 +141,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config_server_8848" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ckx.aigo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ckx.aigo.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaServer_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="eureka_server" />
+      <module name="eureka_server_7001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ckx.aigo.*" />
@@ -124,7 +181,7 @@
       </method>
     </configuration>
     <configuration name="ZuulGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="zuul_gateway" />
+      <module name="zuul_gateway_9527" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ckx.aigo.*" />
@@ -137,19 +194,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BaseQuery" />
       <item itemvalue="Application.test1" />
       <item itemvalue="Spring Boot.EurekaServer_7001" />
       <item itemvalue="Spring Boot.ZuulGatewayApplication" />
       <item itemvalue="Spring Boot.PlatApplication" />
+      <item itemvalue="Spring Boot.ConfigApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConfigApplication" />
         <item itemvalue="Spring Boot.PlatApplication" />
         <item itemvalue="Spring Boot.ZuulGatewayApplication" />
         <item itemvalue="Spring Boot.EurekaServer_7001" />
         <item itemvalue="Application.test1" />
-        <item itemvalue="Application.BaseQuery" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +216,17 @@
         <serviceView>
           <option name="contentProportion" value="0.18181819" />
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -198,11 +265,17 @@
       <workItem from="1592833253965" duration="1376000" />
       <workItem from="1595251921290" duration="76000" />
       <workItem from="1596349348346" duration="1204000" />
+      <workItem from="1596352407564" duration="8142000" />
+      <workItem from="1596371220856" duration="405000" />
+      <workItem from="1596371638934" duration="1039000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Project_Structure" timestamp="1591107224438">
@@ -225,73 +298,73 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591103618672" />
-    <state x="327" y="292" key="FileChooserDialogImpl" timestamp="1592833426796">
+    <state x="327" y="292" key="FileChooserDialogImpl" timestamp="1596371359859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="327" y="292" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592833426796" />
-    <state width="1511" height="233" key="GridCell.Tab.0.bottom" timestamp="1591269231362">
+    <state x="327" y="292" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596371359859" />
+    <state width="1511" height="322" key="GridCell.Tab.0.bottom" timestamp="1596372472221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1511" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591269231362" />
-    <state width="1511" height="233" key="GridCell.Tab.0.center" timestamp="1591269231362">
+    <state width="1511" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596372472221" />
+    <state width="1511" height="322" key="GridCell.Tab.0.center" timestamp="1596372472221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1511" height="233" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591269231362" />
-    <state width="1511" height="233" key="GridCell.Tab.0.left" timestamp="1591269231362">
+    <state width="1511" height="322" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596372472221" />
+    <state width="1511" height="322" key="GridCell.Tab.0.left" timestamp="1596372472221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1511" height="233" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591269231362" />
-    <state width="1511" height="233" key="GridCell.Tab.0.right" timestamp="1591269231362">
+    <state width="1511" height="322" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596372472221" />
+    <state width="1511" height="322" key="GridCell.Tab.0.right" timestamp="1596372472221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1511" height="233" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591269231362" />
-    <state width="1511" height="233" key="GridCell.Tab.1.bottom" timestamp="1591269231362">
+    <state width="1511" height="322" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596372472221" />
+    <state width="1511" height="322" key="GridCell.Tab.1.bottom" timestamp="1596372472221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1511" height="233" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591269231362" />
-    <state width="1511" height="233" key="GridCell.Tab.1.center" timestamp="1591269231362">
+    <state width="1511" height="322" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596372472221" />
+    <state width="1511" height="322" key="GridCell.Tab.1.center" timestamp="1596372472221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1511" height="233" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591269231362" />
-    <state width="1511" height="233" key="GridCell.Tab.1.left" timestamp="1591269231362">
+    <state width="1511" height="322" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596372472221" />
+    <state width="1511" height="322" key="GridCell.Tab.1.left" timestamp="1596372472221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1511" height="233" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591269231362" />
-    <state width="1511" height="233" key="GridCell.Tab.1.right" timestamp="1591269231362">
+    <state width="1511" height="322" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596372472221" />
+    <state width="1511" height="322" key="GridCell.Tab.1.right" timestamp="1596372472221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1511" height="233" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591269231362" />
+    <state width="1511" height="322" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596372472221" />
     <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1590241098243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590241098243" />
-    <state x="600" y="217" key="NewModule_or_Project.wizard" timestamp="1591102357444">
+    <state x="600" y="217" key="NewModule_or_Project.wizard" timestamp="1596371363047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="600" y="217" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591102357444" />
-    <state x="808" y="286" key="SettingsEditor" timestamp="1592833431201">
+    <state x="600" y="217" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1596371363047" />
+    <state x="573" y="126" key="SettingsEditor" timestamp="1596371530840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="808" y="286" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592833431201" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592833254057">
+    <state x="573" y="126" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596371530840" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1596371644330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592833254057" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596371644330" />
     <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590239471742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590239471742" />
-    <state x="276" y="248" key="new project wizard" timestamp="1590242474044">
+    <state x="276" y="248" key="new project wizard" timestamp="1596371281286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="276" y="248" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590242474044" />
+    <state x="276" y="248" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1596371281286" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590071157736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590071157736" />
-    <state x="227" y="220" key="spring file set editor" timestamp="1589895828785">
+    <state x="227" y="220" key="spring file set editor" timestamp="1596370582871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="227" y="220" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1589895828785" />
+    <state x="227" y="220" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1596370582871" />
   </component>
 </project>
